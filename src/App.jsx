@@ -149,13 +149,9 @@ function App() {
                       <p className="pointer-none text-gray-500 ">
                         <span className="text-sm">Drag and drop</span> files
                         here <br /> or{" "}
-                        <a
-                          href=""
-                          id=""
-                          className="text-blue-600 hover:underline"
-                        >
+                        <p className="text-blue-600 hover:underline cursor-pointer">
                           select a file
-                        </a>{" "}
+                        </p>{" "}
                         from your computer
                       </p>
                     </div>
